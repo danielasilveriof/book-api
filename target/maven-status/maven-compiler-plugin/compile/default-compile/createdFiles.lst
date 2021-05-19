@@ -1,0 +1,5 @@
+br\com\bookstore\api\autor\Autor.class
+br\com\bookstore\api\autor\AutorResource.class
+br\com\bookstore\api\JAXRSConfiguration.class
+br\com\bookstore\api\helloworld\HelloWorldResource.class
+br\com\bookstore\api\autor\Genero.class
