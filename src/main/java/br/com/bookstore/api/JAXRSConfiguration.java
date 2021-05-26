@@ -7,7 +7,7 @@ import javax.ws.rs.core.Application;
  *
  * @author aula
  */
-@ApplicationPath("resources")
+@ApplicationPath("api")
 public class JAXRSConfiguration extends Application {
     
 }
